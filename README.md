@@ -14,7 +14,7 @@
 
 # 21 Agustus 2026 
 # Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress Tugas: 100%) (Progress Belajar: 65%)
-   - **Setelah menyelesaikan kelas dari belajar sebelum nya, saya memulai belajar kedalam logika pemograman, yang dimana dari logika tersebut banyak sekali jenis jenis nya yaitu kalau saya sebut kayak ada logika and, or, xor, not, nand, dan xnor.. Dengan kegunaan yang berbeda itu disesuaikan dengan kebutuhan nya seperti apa untuk pembelajaran nya seru banget dan mengingat kembali seperti apa dalam logika tersbeut**
+   - **Setelah menyelesaikan kelas dari belajar sebelum nya, saya memulai belajar kedalam logika pemograman, yang dimana dari logika tersebut banyak sekali jenis jenis gerbang logika nya yaitu kalau saya sebut kayak ada logika and, or, xor, not, nand, dan xnor.. Dengan kegunaan yang berbeda itu disesuaikan dengan kebutuhan nya seperti apa untuk pembelajaran nya seru banget dan mengingat kembali seperti apa dalam logika tersbeut.. Lalu jenis dari logika nya yaitu ada aritmatika, perbandingan dan perulangan.**
 
 # 22 Agustus 2026 
 # Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress Tugas: 100%) (Progress Belajar: --%)
