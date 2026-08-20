@@ -11,3 +11,11 @@
 # 20 Agustus 2026 
 # Belajar Memulai Dasar Pemrograman untuk Menjadi Pengembang Software (Progress Tugas: 100%) (Progress Belajar: 100%)
    - **Selanjutnya saya mempelajari mengenai cara memodifikasi aplikasi perangkat lunak yang dimana dalam memodifikasi itu dimulai dengan menggunakan struktur html dan css kemudian selanjut nya membuat aplikasi login nya berikut projek nya akan ditampilkan selanjutnya, dan terakhir juga mempelajari mengenai cara dokumentasi hasil program yang sudah dibuat atau program dari yang lain**.
+
+# 21 Agustus 2026 
+# Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress Tugas: 100%) (Progress Belajar: 65%)
+   - **Setelah menyelesaikan kelas dari belajar sebelum nya, saya memulai belajar kedalam logika pemograman, yang dimana dari logika tersebut banyak sekali jenis jenis nya yaitu kalau saya sebut kayak ada logika and, or, xor, not, nand, dan xnor.. Dengan kegunaan yang berbeda itu disesuaikan dengan kebutuhan nya seperti apa untuk pembelajaran nya seru banget dan mengingat kembali seperti apa dalam logika tersbeut**
+
+# 22 Agustus 2026 
+# Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress Tugas: 100%) (Progress Belajar: --%)
+   -**Maintenance**
