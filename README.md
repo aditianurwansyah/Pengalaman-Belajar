@@ -18,4 +18,16 @@
 
 # 22 Agustus 2026 
 # Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress Tugas: 100%) (Progress Belajar: --%)
+   -**Libur**
+
+# 23 Agustus 2026
+# Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress Tugas: 100%) (Progress Belajar: --%)
+   -**Libur**
+
+# 24 Agustus 2026
+# Pengenalan ke Logika Pemrograman (Programming Logic 101) (Progress Tugas: 100%) (Progress Belajar: --%)
    -**Maintenance**
+# Belajar Dasar Git dengan GitHub (Progress Tugas: 100%) (Progress Belajar: --%)
+   -**Maintenance**
+
+# 25 Agustus 2026
